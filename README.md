@@ -68,7 +68,7 @@ The Average sales of product shows that Smirnoff ice had high average sales and 
 •	Nigeria Breweries as a company made a higher sale than the other companies combined together. 
 •	Sminorff Ice had high Average sales.
 
-Recommendation: The consumers has a role in this as their preference of a particular product over another affects the quantity purchase thereby reducing supply which might affect the company sales. 
+Recommendation: The consumers has a role in this as their preference of a particular product over another affects the quantity purchase thereby reducing supply which might affect the company sales. Therefore each comapny should look into the desire of product consumer need. Reducing the cost of such product can also help.   
 ---
 ![](Thank_you.jpg)
 
