@@ -1,4 +1,4 @@
-# Retailer-Purchases-of-Beverages-From-a-Wholesaler-
+# Beverage Procurement by Retailers from Wholesaler
 
 ![](Pix.jpg)
 ---
